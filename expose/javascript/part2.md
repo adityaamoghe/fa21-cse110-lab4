@@ -82,4 +82,13 @@
 
 18. The answer to this question is found in the part2-question18.js file.
 
+19. The output will be the following:
+    
+```
+1
+4
+2
+2
+```
+
         
