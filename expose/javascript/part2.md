@@ -21,24 +21,31 @@
   
         Explanation: Here the output is of type string. We will convert the number 2 into a string and concatenate both strings into the output given above.
 
-- b) Output: \
-        Explanation:
+- b) Output: 1
+  
+        Explanation: Here the output is of type number. Since there is a "-" sign, we will convert the string '3' into a number and subtract 2 from it giving us the output above.
         
-- c) Output: \
-        Explanation:
+- c) Output: 3
+  
+        Explanation: Here the output is of type number. The null will not affect anything to the addition and we will simply add 3 with 0 giving us the output above.
         
-- d) Output: \
-        Explanation:
+- d) Output: '3null'
+  
+        Explanation: Here the output is of type string. We will convert the null into the string 'null' and concatenate the it at the end of the string '3' giving us the ouput above.
         
-- e) Output: \
-        Explanation:
+- e) Output: 4
+  
+        Explanation: Here the output is of type number. The true term will be converted into the number 1. Then addition of 1 and 3 will result in the number output of 4 as given above.
         
-- f) Output: \
-        Explanation:
+- f) Output: 0
+  
+        Explanation: Here the output is of type number. The false term will be converted into the number 0. The null will be represented as number 0 as well. Addition of both gives us the output above.
         
-- g) Output: \
-        Explanation:
+- g) Output: '3undefined"
+  
+        Explanation: Here the output is of type string. The undefined term will be converted into the string 'undefined'. This will be concatednated at the end of string '3' by the + operator giving us the output shown above.
         
-- h) Output: \
-        Explanation:
+- h) Output: NaN
+  
+        Explanation: Here we will have undefined numerical results because it is simply not possible to do such calculations to get a definitive number.
         
