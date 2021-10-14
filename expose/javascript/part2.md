@@ -17,7 +17,7 @@
 - d) student['Favorite Teacher'].name;
 - e) student.courseLoad[0];
 13. Below are the 8 parts for question 13:
-- a) Output: 1
+- a) Output: \
         Explanation:
 
 - b) Output:
