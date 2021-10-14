@@ -50,27 +50,27 @@
         Explanation: Here we will have undefined numerical results because it is simply not possible to do such calculations to get a definitive number.
 
 14. Below are the 6 parts for question 14:
-- a) Output: 
+- a) Output: true
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. Here the string '2' becomes a number and we see that the number 2 is greater than 1 giving us the output true.
 
-- b) Output: 
+- b) Output: false 
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. Since both values are of type string, we will compare the first character of both of them. Since '2' is not less than '1' we will get the output false.
 
-- c) Output: 
+- c) Output: true
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. Here the string '2' will become a number 2. The statement is thus true because 2 is equal to 2.
 
-- d) Output: 
+- d) Output: false
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. Since we use the === comparator, we will not do type conversion and we see that the number 2 is not equal to the string '2'.
 
-- e) Output: 
+- e) Output: false
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. The true will get converted to the number 1. We know that 1 does not equal to 2 and therefore we get the output false.
 
-- f) Output: 
+- f) Output: true
   
-        Explanation: 
+        Explanation: Here the output is of type boolean. The Boolean converter will turn the number 2 into the boolean true. Since true and true are both equal booleans we get the output of true.
         
