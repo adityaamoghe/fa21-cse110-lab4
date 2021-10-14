@@ -17,27 +17,27 @@
 - d) student['Favorite Teacher'].name;
 - e) student.courseLoad[0];
 13. Below are the 8 parts for question 13:
-- a) Output: \
-        Explanation:
+- a) Output: '32'\
+        Explanation: Here the output is of type string. We will convert the number 2 into a string and concatenate both strings into the output given above.
 
-- b) Output:
+- b) Output: \
         Explanation:
         
-- c) Output:
+- c) Output: \
         Explanation:
         
-- d) Output:
+- d) Output: \
         Explanation:
         
-- e) Output:
+- e) Output: \
         Explanation:
         
-- f) Output:
+- f) Output: \
         Explanation:
         
-- g) Output:
+- g) Output: \
         Explanation:
         
-- h) Output:
+- h) Output: \
         Explanation:
         
