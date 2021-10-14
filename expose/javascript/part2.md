@@ -11,13 +11,8 @@
 10. This code will run without any errors. We get an output of 3 because that was the size of the input price array. At the beggining of the function, we define the length with a *const*. We simply return this *const* and no errors occur because we never try to modify it.
 11. This was an interesting output that I didn't understand at first. My initial intuition was that we would simply return the empty "[]" array when we called the return statement on line 14 because of the "const" keyword used. However after testing this the actual output was the discounted price array [50,100,150]. This goes to show that in javascript, the "const" keyword in front of an array will allow individual array elements can be reassigned but not the whole array.
 12. Below are the 5 parts for question 12:
-- a) 
-  
-  {
-  '''student.name; '''
-  }
-  
-- b)
-- c)
-- d)
-- e)
+- a) student.name;
+- b) student['Grad Year'];
+- c) student.greeting();
+- d) student['Favorite Teacher'].name;
+- e) student.courseLoad[0];
