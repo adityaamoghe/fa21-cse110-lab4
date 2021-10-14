@@ -73,4 +73,6 @@
 - f) Output: true
   
         Explanation: Here the output is of type boolean. The Boolean converter will turn the number 2 into the boolean true. Since true and true are both equal booleans we get the output of true.
+
+15. The == comparator is used for comparing two values but it ignores the datatype of the variable. The === comparator is also used for comparing two values as well but the operator will also check the datatypes of the two. The === will only return true if and only if the datatype and the values are equivalent of the two variables.
         
