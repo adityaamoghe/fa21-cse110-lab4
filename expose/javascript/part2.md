@@ -16,3 +16,28 @@
 - c) student.greeting();
 - d) student['Favorite Teacher'].name;
 - e) student.courseLoad[0];
+13. Below are the 8 parts for question 13:
+- a) Output: 1
+        Explanation:
+
+- b) Output:
+        Explanation:
+        
+- c) Output:
+        Explanation:
+        
+- d) Output:
+        Explanation:
+        
+- e) Output:
+        Explanation:
+        
+- f) Output:
+        Explanation:
+        
+- g) Output:
+        Explanation:
+        
+- h) Output:
+        Explanation:
+        
