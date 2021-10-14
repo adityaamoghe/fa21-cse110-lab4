@@ -48,4 +48,29 @@
 - h) Output: NaN
   
         Explanation: Here we will have undefined numerical results because it is simply not possible to do such calculations to get a definitive number.
+
+14. Below are the 6 parts for question 14:
+- a) Output: 
+  
+        Explanation: 
+
+- b) Output: 
+  
+        Explanation: 
+
+- c) Output: 
+  
+        Explanation: 
+
+- d) Output: 
+  
+        Explanation: 
+
+- e) Output: 
+  
+        Explanation: 
+
+- f) Output: 
+  
+        Explanation: 
         
