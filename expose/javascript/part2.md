@@ -91,4 +91,6 @@
 2
 ```
 
+However the key is to notice that the 1, the 4, and the 2 will be instantly outputted, whereas the 2 from line 3 will be outputted to console one second later because it has a timer of 1 second to be deployed. This is because 1000 ms = 1 second.
+
         
