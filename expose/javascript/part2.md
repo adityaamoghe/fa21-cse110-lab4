@@ -79,4 +79,7 @@
 16. The answer to this question is found in the part2-question16.js file.
 
 17. The result of the given code will be the array: [2,4,6]. We will first start at line 13, where the function *modifyArray* is being called with parameters [1,2,3] which is an array and second parameter *doSomething* which is a function. Next we move into line 1, and we enter the called function *modifyArray*. We will declare a const array that will have its elements be updated by the for loop that follows. We will push into the new array the return value of the function *callback* which is equivalent to the function *doSomething*. We shall go through our input array, iteratively calling *doSomething* which creates our array values doubled.
+
+18. The answer to this question is found in the part2-question18.js file.
+
         
